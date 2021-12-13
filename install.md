@@ -24,5 +24,19 @@
   <li>pip install -r requirements.txt</li>
   
   <li>python mitmf.py --help</li>
+  
+  
+  #ERROR
+  Traceback (most recent call last):
+  File "mitmf.py", line 29, in <module>
+    import core.responder.settings as settings
+  File "/home/crypto/programas/MITMf/core/responder/settings.py", line 24, in <module>
+    from core.configwatcher import ConfigWatcher
+  File "/home/crypto/programas/MITMf/core/configwatcher.py", line 20, in <module>
+    import pyinotify
+ImportError: No module named pyinotify
+-----------------------------------------------------
+  !mkvirtualenv MITMf -p /usr/bin/python2.7
+  !RUN python mitmf.py --help
                  
 </ol>
