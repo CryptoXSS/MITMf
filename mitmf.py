@@ -34,7 +34,7 @@ from twisted.web import http
 from twisted.internet import reactor
 from core.logger import logger
 from core.banners import get_banner
-from plugins import 
+from plugins import *
 
 
 print get_banner("???????")
