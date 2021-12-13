@@ -19,6 +19,8 @@
 #
 import pyinotify
 import threading
+import ConfigWatcher
+import notify
 from configobj import ConfigObj
 
 class ConfigWatcher(pyinotify.ProcessEvent, object):
