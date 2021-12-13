@@ -28,6 +28,7 @@ import os
 import threading
 import core.responder.settings as settings
 import notify
+import pyinotify
 
 from argparse import RawTextHelpFormatter
 from twisted.web import http
