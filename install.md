@@ -10,7 +10,6 @@
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
   
   "VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.9"
-  
   "source /usr/local/bin/virtualenvwrapper.sh" 
  
   
