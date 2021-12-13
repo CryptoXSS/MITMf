@@ -2,7 +2,7 @@
 
 <ol>
   <li>sudo su</li>
-    <li>apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev libjpeg-dev libxml2-dev libxslt1-dev libcapstone3 libcapstone- dev libffi-dev file</li>
+    <li>apt-get install python-dev python-setuptools libpcap0.8-dev libnetfilter-queue-dev libssl-dev libjpeg-dev libxml2-dev libxslt1-dev libcapstone3 libcapstone-dev libffi-dev file</li>
       <li>apt-get install libcapstone4</li>
        <li>pip install virtualenvwrapper</li>
         <li>source /usr/local/bin/virtualenvwrapper.sh</li>
