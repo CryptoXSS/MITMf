@@ -8,8 +8,11 @@
         <li>source /usr/local/bin/virtualenvwrapper.sh</li>
          <li>nano ~/.bashrc enter, paste it at the end of the text.</li>
  
- "VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.9"
-  "source /usr/local/bin/virtualenvwrapper.sh"        
+  
+  "VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.9"
+  "source /usr/local/bin/virtualenvwrapper.sh" 
+  
+  <li>source ~/.bashrc</li>
 
   <li>mkvirtualenv MITMf -p /usr/bin/python2.7</li>
   
