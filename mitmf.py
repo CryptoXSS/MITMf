@@ -27,15 +27,17 @@ import sys
 import os
 import threading
 import core.responder.settings as settings
+import notify
 
 from argparse import RawTextHelpFormatter
 from twisted.web import http
 from twisted.internet import reactor
 from core.logger import logger
 from core.banners import get_banner
-from plugins import *
+from plugins import 
 
-print get_banner()
+
+print get_banner("???????")
 
 mitmf_version = '0.9.8'
 mitmf_codename = 'The Dark Side'
