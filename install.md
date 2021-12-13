@@ -7,10 +7,12 @@
        <li>pip install virtualenvwrapper</li>
         <li>source /usr/local/bin/virtualenvwrapper.sh</li>
          <li>nano ~/.bashrc "enter", paste it at the end of the text without quotes..</li>
- Google (Noto Emoji v2.028)
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
   
   "VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.9"
+  
   "source /usr/local/bin/virtualenvwrapper.sh" 
+ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆ ⬆️
   
   <li>source ~/.bashrc</li>
 
