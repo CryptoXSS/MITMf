@@ -19,7 +19,7 @@ import sys
 import socket
 import utils
 import logging
-import ConfigWatcher*
+import ConfigWatcher *
 
 from core.logger import logger
 from core.configwatcher import ConfigWatcher
